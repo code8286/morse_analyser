@@ -1,0 +1,15 @@
+build/
+*.o
+*.exe
+morse-analyser
+gen_test_wav
+morse_timings.csv
+tone_detection.svg
+spectrogram.png
+*.wav
+!tests/*.wav
+Claude outputs/
+morse-encoder
+morse-gui
+test_roundtrip
+stego.wav
